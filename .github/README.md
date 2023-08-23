@@ -1,10 +1,5 @@
-
-
-
-<p align="center">
-  <img src="(https://telegra.ph/file/4d7fd7476a9354f05f240.jpg)">
-</p>
-
+<!--
+**Carryminati01/Carry-ROBOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
