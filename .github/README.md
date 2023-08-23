@@ -6,8 +6,7 @@
 
 
 <p align="center">
-    <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/Masoom_bacha_hu/count.svg" />
+  <img src="(https://telegra.ph/file/4d7fd7476a9354f05f240.jpg)">
 </p>
 
 
