@@ -18,7 +18,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/d874fc40ddf9ead0cad6b.jpg">
+  <img src="[https://graph.org/file/d874fc40ddf9ead0cad6b](https://telegra.ph/file/4d7fd7476a9354f05f240.jpg).">
 </p>
 
 ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝄟ॐ❥𝗩𝗜𝗣🍷𝗥𝗢𝗕𝗢𝗧𝄟⃟🥀](https://t.me/THE_VIP_ROBOT)
