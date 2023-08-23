@@ -1,37 +1,19 @@
-━━━━━━━━━━━━━━━━━━━
-### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
-
-<!--
-**Carryminati01/Carry-ROBOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    𝄟🌹Cute robot🌹​​​​​𝄟​​​​​
+    ──「 Cute ✘ Robot 」──
 </h2>
 
-<p align="center">
-  <img src="(https://telegra.ph/file/4d7fd7476a9354f05f240.jpg).">
-</p>
 
-ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝄟ॐ❥Cute🍷Robot𝄟⃟🥀](https://t.me/Cute_boy_robot)
+
+_ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [Cute ✘ Robot](https://t.me/Cute_boy_robot)_
 ━━━━━━━━━━━━━━━━━━━━
 
 
 
+━━━━━━━━━━━━━━━━━━━━
+
 <p align="center">
-<b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
+  <img src="https://telegra.ph/file/4d7fd7476a9354f05f240.jpg">
 </p>
-
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
-</h3>
-
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Carryminati01/Carry-ROBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-darkred?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-
-
-
-<h3 align="center">
-    ─「 sᴜᴩᴩᴏʀᴛ 」─
-</h3>
 
