@@ -30,7 +30,7 @@ Mukesh = [
     ],
 ]
 
-lol = "https://graph.org/file/d874fc40ddf9ead0cad6b.jpg"
+lol = "https://telegra.ph/file/36b061d666180b6c5057f.jpg"
 
 
 @pbot.on_message(filters.command("alive"))
@@ -48,16 +48,16 @@ async def restart(client, m: Message):
     await accha.delete()
     await asyncio.sleep(0.5)
     umm = await m.reply_sticker(
-        "CAACAgUAAxkDAAJHbmLuy2NEfrfh6lZSohacEGrVjd5wAAIOBAACl42QVKnra4sdzC_uKQQ"
+        "CAACAgUAAx0Ccct_KQABAj2BZOXeIB-h23nOISGmQz8IvsSZHOcAAjYHAAI1Z2lXv88SvSXogLEwBA"
     )
     await umm.delete()
     await asyncio.sleep(0.8)
     await m.reply_photo(
         lol,
-        caption=f"""**🌷ʜᴇʏ, ɪ ᴀᴍ 『[𝗩𝗜𝗣 𝗥𝗢𝗕𝗢𝗧](f"t.me/{BOT_USERNAME}")』🎄**
+        caption=f"""**🌷ʜᴇʏ, ɪ ᴀᴍ 『[Cute Robot](f"t.me/{BOT_USERNAME}")』🎄**
    ╔═════ஜ۩۞۩ஜ════╗
 
-   ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [𝗩𝗜𝗣 𝗕𝗢𝗬](https://t.me/THE_VIP_BOY)♨️
+   ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [Cute Boy](https://t.me/Masoom_bacha_hu)♨️
 
    ╚═════ஜ۩۞۩ஜ════╝""",
         reply_markup=InlineKeyboardMarkup(Mukesh),
@@ -68,4 +68,4 @@ __help__ = """
 *ᴜsᴇʀ ᴄᴏᴍᴍᴀɴᴅs*:
 » /alive*:* ᴛᴏ ᴄʜᴇᴀᴋ ❓  ɪ ᴀᴍ ᴀʟɪᴠᴇ ᴏʀ ɴᴏᴛ?
 
-☆............𝙱𝚈 » [𝚅𝙸𝙿 𝙱𝙾𝚈](https://t.me/the_vip_boy)............☆"""
+☆............𝙱𝚈 » [Cute 𝙱𝙾𝚈](https://t.me/Masoom_bacha_hu)............☆"""
